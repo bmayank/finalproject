@@ -8,16 +8,16 @@ Folders
 
 I couldn't create the folders and files due to huge size. Thus, I am providing the zip repository of the file. We need to unzip the folder and keep the files in the following folder structure:
 
-./training/n0 
-./training/n1 
-... 
-./training/n9 
+1. ./training/n0 
+2. ./training/n1 
+3. ... 
+4. ./training/n9 
 
 
-./validation/n0 
-./validation/n1 
-... 
-./validation/n9 
+1. ./validation/n0 
+2. ./validation/n1 
+3. ... 
+4. ./validation/n9 
 
 I have used 'Dog Breed' workspace to create this project. Details could be checked under folder 'Capstone_Project'.
 
