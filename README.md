@@ -28,3 +28,10 @@ Files
 4.	Monkey_species.ipynb  Python notebook containing python code with sample data run
 5.	Monkey_species.html  HTML version of python code with sample data run
 6.	Monkey_species.pdf  PDF version of python code with sample data run
+
+I would like to call out various resources which influences my project
+1. Fine-Grained Categorization: 	https://vision.cornell.edu/se3/fine-grained-categorization/
+2. Fine-Grained Categorization: https://www.researchgate.net/publication/301452581_Croatian_Fish_Dataset_Fine-grained_classification_of_fish_species_in_their_natural_habitat
+3. https://www.kaggle.com/slothkong/10-monkey-species: There were various samples / recommendataions. They indeed help me think through my approach and how I go about the problem.
+4. Fig Ref: https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
+
