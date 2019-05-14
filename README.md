@@ -39,7 +39,5 @@ I would like to call out various resources which influences my project
 
 Additional References
 5. Ref: https://isaacchanghau.github.io/post/loss_functions/
-
-6. Fig Source: https://www.cs.toronto.edu/~frossard/post/vgg16/ 
-
+6. Fig Source: https://www.cs.toronto.edu/~frossard/post/vgg16/
 7. Google for ResNet50 information
