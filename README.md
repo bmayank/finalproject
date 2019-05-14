@@ -35,3 +35,9 @@ I would like to call out various resources which influences my project
 3. https://www.kaggle.com/slothkong/10-monkey-species: There were various samples / recommendataions. They indeed help me think through my approach and how I go about the problem.
 4. Fig Ref: https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
 
+------------------------------------------------------------------------------------------------------------------
+
+Additional References
+5. Ref: https://isaacchanghau.github.io/post/loss_functions/
+6. Fig Source: https://www.cs.toronto.edu/~frossard/post/vgg16/ 
+7. Google for ResNet50 information
